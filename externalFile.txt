@@ -1,3 +1,5 @@
 This is external file in testing repo
 
-ChangeOne in externalFile
+ChangeOne in externalFile from branchOne
+
+
